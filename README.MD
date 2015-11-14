@@ -13,14 +13,14 @@ README.MD <br>
 home.html <br>
 index.html <br>
 
-./css
+./css<br>
 styles.css
 
-./img
+./img<br>
 imagen1.jpeg <br>
 imagen1.png <br>
 
-./js
+./js <br>
 app.js <br>
 jquery.js <br>
 
