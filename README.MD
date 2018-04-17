@@ -3,8 +3,9 @@ WELCOME PAGE
 
 GitHub Project List
 ----
-<a href="http://lbruges.github.io"> Home Webpage </a> <br>
+<a href="http://lbruges.github.io"> Test Home Webpage </a> <br>
 <a href="https://github.com/lbruges/rbe"> BioRepository </a> <br>
+<a href="https://github.com/lbruges/AoC"> Advent of Code 2017</a></br>
 
 Welcome Page File List
 ----
